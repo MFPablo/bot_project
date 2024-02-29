@@ -1,2 +1,6 @@
-# bot_project
-automation
+# Instructions
+
+```
+- yarn install
+- yarn dev
+```
